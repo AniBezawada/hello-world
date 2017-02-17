@@ -10,7 +10,7 @@ public class FirstDemo{
 			System.out.println("addition of a+b" +c);
 			System.out.println("Heyyy yayyy it's my first program");
 			System.out.println("Heyyy yayyy it's my first program");
-			System.out.println("Heyyy yayyy it's my first program");
+			System.out.println("Heyyy yayyy it's my first update from GitHub");
 			/* Naming Conventions
 				Classname
 				methodName
